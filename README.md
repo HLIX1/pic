@@ -1,1 +1,1 @@
-# pic
+# My personal picture warehouse in GitHub
